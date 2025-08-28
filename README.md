@@ -9,9 +9,6 @@
 
 **🚀 Empowering Critical Thinking in an Age of Information Overload**
 
-[🌟 Live Demo](#) • [📖 Documentation](#documentation) • [🐛 Report Issues](#)
-
-</div>
 
 ---
 
