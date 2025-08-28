@@ -5,9 +5,9 @@ import { GeistMono } from "geist/font/mono"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Digital Skeptic AI - Critical News Analysis",
-  description: "Empowering Critical Thinking in an Age of Information Overload",
-  generator: "v0.app",
+  title: "skep.ai",
+  description: "Empowering Critical Thinking in an Age of Information Overload"
+
 }
 
 export default function RootLayout({
