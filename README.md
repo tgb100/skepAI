@@ -197,43 +197,6 @@ The application performs multi-stage analysis:
 
 ---
 
-## 📁 Project Structure
-
-```
-digital-skeptic-ai/
-├── src/
-│   ├── components/          # React components
-│   │   ├── AnalysisReport.jsx
-│   │   ├── ArticleInput.jsx
-│   │   └── LoadingStates.jsx
-│   ├── services/            # API and scraping logic
-│   │   ├── geminiService.js
-│   │   └── contentExtractor.js
-│   ├── utils/               # Helper functions
-│   │   └── promptTemplates.js
-│   └── App.jsx              # Main application
-├── public/                  # Static assets
-├── .env.example            # Environment template
-├── package.json            # Dependencies
-└── README.md              # This file
-```
-
----
-
-## 🔧 Configuration
-
-### Environment Variables
-```bash
-VITE_GEMINI_API_KEY=your_api_key_here          # Required: Gemini API key
-VITE_CORS_PROXY_URL=https://cors-proxy.com     # Optional: Custom CORS proxy
-VITE_DEBUG_MODE=false                          # Optional: Enable debug logging
-```
-
-### API Configuration
-The application is configured to work with Google Gemini Pro model with optimal settings for text analysis tasks.
-
----
-
 ## 🐛 Troubleshooting
 
 <details>
@@ -280,26 +243,10 @@ The application uses sophisticated prompt templates optimized for:
 
 ---
 
-## 🚀 Development & Deployment
-
-### Local Development
-```bash
-npm run dev          # Start development server
-npm run build        # Build for production
-npm run preview      # Preview production build
-npm run lint         # Run ESLint
-```
-
-### Deployment Options
-- **Vercel**: Optimal for React applications
-- **Netlify**: Simple deployment with build optimization
-- **GitHub Pages**: Free hosting option
-
----
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ---
 
