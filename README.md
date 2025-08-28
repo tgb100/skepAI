@@ -7,17 +7,17 @@
 ![Gemini AI](https://img.shields.io/badge/Google-Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**🚀 Empowering Critical Thinking in an Age of Information Overload**
+** Empowering Critical Thinking in an Age of Information Overload**
 
 </div>
 
 ---
 
-## 🎯 What is Digital Skeptic AI?
+##  What is Digital Skeptic AI?
 
 Digital Skeptic AI is your personal **critical thinking companion** that analyzes news articles for bias, claims, and credibility. It doesn't tell you what to think – it gives you the tools to think better by automating the initial skeptical analysis while encouraging independent verification.
 
-### ⚡ Quick Demo
+###  Quick Demo
 
 ```bash
 📰 Input: "https://example-news-site.com/breaking-news"
@@ -27,42 +27,42 @@ Digital Skeptic AI is your personal **critical thinking companion** that analyze
 
 ---
 
-## ✨ Core Features
+##  Core Features
 
-### 🎯 **Core Claims Extractor**
+###  **Core Claims Extractor**
 - Automatically identifies 3-5 main factual claims from articles
 - Separates verifiable facts from opinions and speculation
 - Presents claims in clear, concise bullet points
 
-### 🎭 **Language & Tone Analyzer**
+###  **Language & Tone Analyzer**
 - Detects emotional manipulation and loaded language
 - Classifies articles as: Neutral, Persuasive, Opinion-based, or Sensationalized
 - Identifies bias patterns in writing style and word choice
 
-### 🚩 **Red Flag Detector**
+###  **Red Flag Detector**
 - Spots overreliance on anonymous sources
 - Identifies missing citations and unsupported claims
 - Flags one-sided narratives and potential conflicts of interest
 - Detects statistical manipulation or misleading data presentation
 
-### ❓ **Smart Verification Generator**
+###  **Smart Verification Generator**
 - Creates 3-4 specific, actionable research questions
 - Suggests independent verification methods
 - Provides investigation roadmap for fact-checking
 
-### 🔍 **Entity Recognition** (Bonus Feature)
+###  **Entity Recognition** (Bonus Feature)
 - Identifies key people, organizations, and locations
 - Suggests background research for each entity
 - Flags potential funding sources and conflicts of interest
 
-### 🎲 **Counter-Argument Simulator** (Bonus Feature)
+###  **Counter-Argument Simulator** (Bonus Feature)
 - Shows how opposing viewpoints might interpret the story
 - Highlights potential blind spots in the narrative
 - Encourages perspective-taking and balanced analysis
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 ```bash
@@ -127,7 +127,7 @@ The application uses carefully crafted prompts for each analysis type:
 
 ---
 
-## 📊 Output Format
+##  Output Format
 
 The analysis generates a comprehensive **Critical Analysis Report** in Markdown format:
 
@@ -179,7 +179,7 @@ The application performs multi-stage analysis:
 
 ---
 
-## 🧪 Testing & Quality Assurance
+##  Testing & Quality Assurance
 
 ### Test Coverage
 - URL validation and content extraction
@@ -195,7 +195,7 @@ The application performs multi-stage analysis:
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 <details>
 <summary><strong>CORS Issues with News Sites</strong></summary>
