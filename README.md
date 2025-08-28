@@ -9,6 +9,7 @@
 
 **🚀 Empowering Critical Thinking in an Age of Information Overload**
 
+</div>
 
 ---
 
